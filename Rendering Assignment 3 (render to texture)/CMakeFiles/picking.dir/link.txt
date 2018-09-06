@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libpicking.so -o libpicking.so CMakeFiles/picking.dir/src/picking.cpp.o -lGLU -lGL 

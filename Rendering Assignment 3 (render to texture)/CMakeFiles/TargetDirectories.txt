@@ -1,0 +1,3 @@
+/home/luislee/Desktop/120version_hw3_complete/CMakeFiles/rebuild_cache.dir
+/home/luislee/Desktop/120version_hw3_complete/CMakeFiles/edit_cache.dir
+/home/luislee/Desktop/120version_hw3_complete/CMakeFiles/Rendering.dir

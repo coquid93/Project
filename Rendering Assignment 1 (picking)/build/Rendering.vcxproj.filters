@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\external\IMGUI\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\external\IMGUI\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\external\IMGUI\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\external\IMGUI\imgui_impl_glut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\src\Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\src\glslShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\src\picking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\luis\Desktop\GyoungwonLee_2016-27389_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9AAFC0EC-6191-3EB2-873C-78EC0D8C6548}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

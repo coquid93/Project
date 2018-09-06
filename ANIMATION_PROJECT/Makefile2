@@ -1,0 +1,2 @@
+GUI:
+	g++ trackballGUI.cpp Luis/camera.cpp Luis/Body_structure.cpp Luis/Read_BVH.cpp Luis/IKsolver.cpp MotionCalc.cpp imgui_impl_glut.cpp imgui.cpp imgui_demo.cpp imgui_draw.cpp -o animation -lGL -lGLU -lglut
